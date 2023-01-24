@@ -1,0 +1,10 @@
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ResolveAssemblyReference.cache
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ProjectBarang.Form1.resources
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ProjectBarang.Resources.resources
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ProjectBarang.vbproj.GenerateResource.Cache
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\bin\Debug\ProjectBarang.exe
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\bin\Debug\ProjectBarang.pdb
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\bin\Debug\ProjectBarang.xml
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ProjectBarang.exe
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ProjectBarang.xml
+E:\Indomaret\Latihan\ProjectBarang\ProjectBarang\obj\Debug\ProjectBarang.pdb
